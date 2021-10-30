@@ -1,3 +1,4 @@
+// projeto que fica "ouvindo" o que acontece[log] e escreve em outro arquivo. [log.txt]
 const EventEmitter = require('events')
 const fs = require('fs')
 const path = require('path')
