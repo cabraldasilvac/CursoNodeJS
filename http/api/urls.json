@@ -1,28 +1,51 @@
 {
-  "urls": [
-    {
-      "name": "Rockeseat",
-      "url": "http://rocketseat.com.br"
-    },
-    {
-      "name": "Google",
-      "url": "http://google.com"
-    },
-    {
-      "name": "Google",
-      "url": "http://escoladeprofetas.org"
-    },
-    {
-      "name": "Google",
-      "url": "http://escoladeprofetas.org"
-    },
-    {
-      "name": "Google",
-      "url": "http://bb.com.br"
-    },
-    {
-      "name": "Google",
-      "url": "http://escoladeprofetas.org/del"
-    }
-  ]
+    "urls": [{
+            "name": "Rockeseat",
+            "url": "http://rocketseat.com.br"
+        },
+        {
+            "name": "Google",
+            "url": "http://google.com"
+        },
+        {
+            "name": "Google",
+            "url": "http://escoladeprofetas.org"
+        },
+        {
+            "name": "Google",
+            "url": "http://escoladeprofetas.org"
+        },
+        {
+            "name": "Google",
+            "url": "http://bb.com.br"
+        },
+        {
+            "name": "Google",
+            "url": "http://escoladeprofetas.org/del"
+        },
+        {
+            "name": "Google",
+            "url": "http://google.com"
+        },
+        {
+            "name": "Escola de Profetas",
+            "url": "http://google.com"
+        },
+        {
+            "name": "Escola de Profetas",
+            "url": "http://escoladeprofetas.org"
+        },
+        {
+            "name": "Escola de Profetas",
+            "url": "https://www.bibliaonline.com.br/"
+        },
+        {
+            "name": "Escola de Profetas",
+            "url": "https://www.bibliaonline.com.br/"
+        },
+        {
+            "name": "Escola de Profetas",
+            "url": "https://my.bible.com/pt/moments"
+        }
+    ]
 }
