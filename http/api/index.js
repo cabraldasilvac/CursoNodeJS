@@ -2,7 +2,6 @@ const http = require('http')
 const URL = require('url')
 const fs = require('fs')
 const path = require('path')
-
 const data = require('./urls.json')
 
 function writeFile(cb) {
