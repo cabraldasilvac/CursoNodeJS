@@ -31,6 +31,6 @@ switch (cal) {
         break;
 
         defaut:
-            console.log("Opção inválida")
+            console.log("A Opção escolhida é inválida")
 
 }

@@ -1,10 +1,10 @@
-Olá esse projeto ensina ausar o Git e GitHub
+<!-- Olá esse projeto ensina a usar o Git e GitHub -->
 
-Primeiros passos
+Meus Primeiros passos nos Git e GitHub
 
-criar pasta
+criar a pasta
 
-criar arquivo Readme.md
+criar o arquivo Readme.md
 
 comando git init
 
