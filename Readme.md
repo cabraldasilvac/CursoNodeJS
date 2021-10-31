@@ -1,24 +1,24 @@
-<!-- Olá esse projeto ensina a usar o Git e GitHub -->
+<!-- NODE.JS -->
 
-Meus Primeiros passos nos Git e GitHub
+Este projeto é sobre Node.JS
 
-criar a pasta
+Na pasta JS criamos uma calculadora
 
-criar o arquivo Readme.md
+Um sistema para verificar o Status de um HD
 
-comando git init
+Um sistema para receber dados de páginas visitadas.
 
-Comando git add [nome do arquivo]
-Se for adicionar TODOS ARQUIVOS alterados == git add . e tecle enter
+Arquivos criados: Calculadora.js - Log.txt - logger.js - ststs.js
+
+foi criado um arquivo de servidor LocalHost - server.js
+
+Na pasta HTTP criamos.
+
+Uma API - Uma pagina index.js  - um arquivo urls.JSON
+
+Uma Public - Uma pagina index.html com style.css e script.js
 
 
-comando git status - para ver se tem arquivos para fazer o commit
 
-Comando git commit -m " o titulo do commit"
 
-Comando git remote add origin "adicionar o link do repositorio"
-
-Comando git push  origin master
-
-Seguir adicionando comandos.
 
