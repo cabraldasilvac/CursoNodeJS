@@ -1,6 +1,8 @@
 // Programa que verifica o STATUS da memória
 const os = require('os')
 const log = require('./logger')
+
+// setInverval() função Global que executa a cada // "x" segundos - conforme definição do usuario.
 setInterval(() => {
         const { freemem, totalmem } = os
         const total = parseInt(totalmem() / 1024 / 1024)
@@ -18,6 +20,4 @@ setInterval(() => {
         console.table(stats)
         log(`${JSON.stringify(stats)}\n`)
 
-    }, 1000)
-    // setInverval() função Global que executa a cada 
-    // 1000 segundos - conforme definição do usuario.
+    }, 1000) // configura o tempo de espera
