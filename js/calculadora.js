@@ -1,13 +1,8 @@
-let readlineSync = require('readline-sync');
+var readlineSync = require('readline-sync');
 
-//let a = readlineSync.question("Digite o valor 1: ");
-//let b = readlineSync.question("Digite o valor 2: ");
-//let op = readlineSync.question("Digite uma opção: ");
-
-let a = parseInt(readlineSync.question("Digite o valor 1: "));
-let b = parseInt(readlineSync.question("Digite o valor 2: "));
-let cal = readlineSync.question("Digite uma opção: ");
-
+var a = parseInt(readlineSync.question("Digite o 1° valor: "));
+var b = parseInt(readlineSync.question("Digite o 2° valor: "));
+var cal = readlineSync.question("Digite uma opção 【" + ", " - ", " / ", " * "】: ");
 
 switch (cal) {
     case "+":
@@ -32,5 +27,4 @@ switch (cal) {
 
         defaut:
             console.log("A Opção escolhida é inválida")
-
 }

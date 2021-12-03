@@ -1,4 +1,4 @@
-// Programa que verifica o STATUS da memória
+// Programa que verifica o STATUS da memória de HD
 const os = require('os')
 const log = require('./logger')
 
@@ -20,4 +20,4 @@ setInterval(() => {
         console.table(stats)
         log(`${JSON.stringify(stats)}\n`)
 
-    }, 1000) // configura o tempo de espera
+    }, 1000) //tempo de espera em segundos.

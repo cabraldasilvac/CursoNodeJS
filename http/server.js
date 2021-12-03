@@ -1,3 +1,5 @@
+// Cria um servidor para "escutar" a porta de número [5000]
+
 const http = require('http')
 const fs = require('fs')
 const path = require('path')
@@ -21,4 +23,4 @@ http.createServer((req, res) => {
             }
         )
 
-    }).listen(5000, () => console.log('Server is running')) //escutando porta 5000
+    }).listen(5000, () => console.log('Server is running')) //escutando a porta 5000
