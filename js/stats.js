@@ -2,7 +2,7 @@
 const os = require('os')
 const log = require('./logger')
 
-// setInverval() função Global que executa a cada // "x" segundos - conforme definição do usuario.
+// SetInverval() função Global que executa a cada // "x" segundos - conforme definição do usuario.
 setInterval(() => {
         const { freemem, totalmem } = os
         const total = parseInt(totalmem() / 1024 / 1024)
